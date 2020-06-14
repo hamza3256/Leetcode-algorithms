@@ -1,3 +1,5 @@
+Credit: labuladong/f***ing-algorithm.git
+
 English translation is in progress... Some articles are still in Chinese, but most are completed. Please **star** this repo. The full translation will eventually be finished. Enjoy.
 
 These articles go over different kinds of **Algorithmic Thinking**. All are based on LeetCode problems. They are **not only the solution code for the problem, but also WHY the solution works and HOW we can figure it out**.
